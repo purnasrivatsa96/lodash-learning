@@ -1,0 +1,25 @@
+{
+  "name": "lodash-learning",
+  "version": "1.0.0",
+  "description": "learning lodash",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purnasrivatsa96/lodash-learning.git"
+  },
+  "author": "purnasrivatsa96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purnasrivatsa96/lodash-learning/issues"
+  },
+  "homepage": "https://github.com/purnasrivatsa96/lodash-learning#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
